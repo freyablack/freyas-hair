@@ -33,3 +33,44 @@ p{
 a{
   color: black;
 }
+
+.styling{
+  width: 200px;
+  height: 200px;
+}
+
+.towel{
+  width: 200px;
+  height: 200px;
+}
+
+.tre{
+  width: 200px;
+  height: 200px;
+}
+
+.jozi{
+  width: 200px;
+  height: 200px;
+}
+
+.cap{
+  width: 200px;
+  height: 200px;
+  margin-bottom: 20px;
+}
+
+li{
+  font-size: large;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+footer{
+  width: 100%;
+  margin-top: -16px;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
